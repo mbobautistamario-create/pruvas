@@ -1,2 +1,3 @@
 # commit
-print("hola")
+nombre = "mario"
+print(nombre)
